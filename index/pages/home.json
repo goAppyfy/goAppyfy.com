@@ -1,0 +1,18 @@
+{
+	"rows" : [ {
+		"columns" : [ {
+  			"panels" : [ {
+				
+				"type" : "form",
+				"fields" : [
+					{  "type" : "label", "id" : "header", "label" : "goAppyfy", "size" : 12 },
+					{  "type" : "label", "id" : "desc", "label" : "We are truly-madly committed to build your App using Appyfy Platform", "size" : 12 },
+					{  "type" : "label", "id" : "paas", "label" : "We also provide Appyfy Platform as a Service", "size" : 12 }
+				],
+				
+				"mode" : "readonly",
+				"shadow" : "off"
+			} ]
+	  	} ]
+	} ]
+}
